@@ -1,7 +1,7 @@
 ## Hi! I'm Alan Carvalho!
 -🎓 Studying Technician in Systems Development
 <p></p>
--👨🏾‍💻 Developing Inter Games
+-👨🏾‍💻 Developing WebSite Inter Games
 <p></p>
 -🌱 Studying Java, Python, Csharp, HTML, CSS, JavaScript, PHP
 <p></p>
