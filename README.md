@@ -3,7 +3,7 @@
 <p></p>
 -👨🏾‍💻 Developing WebSite Inter Games
 <p></p>
--🌱 Studying Java, Python, Csharp, HTML, CSS, JavaScript, PHP
+-🌱 Skills Java, Python, Csharp, HTML, CSS, JavaScript, PHP
 <p></p>
 
 ✨ My contributions:
